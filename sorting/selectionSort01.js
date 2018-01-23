@@ -7,9 +7,9 @@
 
 
 	mainFn();
+	
 	/*
-		Main function  
-
+		Main function
 	*/
 	function mainFn(){
 		var array = getCommandLineVariables();
