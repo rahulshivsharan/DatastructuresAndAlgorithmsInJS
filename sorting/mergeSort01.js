@@ -46,7 +46,6 @@
 				recheck = true;
 			}
 
-
 						
 		}while(arrayOfArrays.length > 1 || recheck);
 
